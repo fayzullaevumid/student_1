@@ -1,0 +1,28 @@
+body{
+    background-color: #69688C;
+    color: black;
+}
+#p1{
+    font-size: 2.3rem;
+    text-align: center;
+    margin-top: 7rem;
+}
+#raqam{
+    font-size: 1.4rem;
+    text-align: center;
+    width: 8rem;
+    height: 3.7rem;
+    background-color: #6797d5;
+}
+.card1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#p2{
+    font-size: 1.2rem;
+}
+#card{
+    margin-left: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
